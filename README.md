@@ -1,1 +1,1 @@
-# portfolio-z
+Web application developer as well as working towards my Bachelars in Software Engineering at Colorado Technical University.
